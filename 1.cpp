@@ -22,7 +22,6 @@
 #include <cstring>
 #include <climits>
 #include <list>
-#include <bits/stdc++.h>
 using namespace std;
 
 #define sci(x) scanf("%d",&x)
